@@ -38,10 +38,10 @@ const Tweet = ({ tweet }) => {
 //         </div>
 //       </div>
 //     </div>
-//   );
-// };
+  );
+};
 
-// export default Tweet;
+export default Tweet;
 
 
 
