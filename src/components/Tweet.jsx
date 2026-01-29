@@ -28,13 +28,13 @@ const Tweet = ({ tweet }) => {
             />
           )}
 
-         {/* actions
+         {/* actions */}
          <div className="flex justify-between mt-2 text-neutral-500 text-[12px] max-w-[420px]">
              <span className="hover:text-blue-400">💬 289</span>
            <span className="hover:text-green-400">🔁 2.9K</span>
              <span className="hover:text-pink-500">❤️ 11K</span>
           <span>📊 255K</span>
-         </div> */}
+         </div>
        </div>
       </div>
     </div>
