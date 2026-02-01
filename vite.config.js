@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-  base: "/X-clone/", // 👈 repo ka exact naam
+  base: "/", // 👈 repo ka exact naam
 });
